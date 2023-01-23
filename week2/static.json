@@ -1,0 +1,20 @@
+{
+    "headers": {
+      "/**": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "X-Author": "itmo336203"
+      },
+      "/login/": {
+        "Access-Control-Allow-Origin": "*",
+        "Content-Type": "text/plain; charset=utf-8",
+        "X-Author": "itmo336203"
+      },
+      "/sample/": {
+        "Access-Control-Allow-Origin": "*",
+        "Content-Type": "text/plain; charset=utf-8",
+        "X-Author": "itmo336203"
+      }
+    },
+    "https_only": true
+  }
+  
